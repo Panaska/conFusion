@@ -1,0 +1,26 @@
+All my practical assignments
+
+Course "HTML + CSS + JavaScript"
+Week 1. HTML + CSS. Form for dating web site
+Week 2. Basic Javasript. Game "Guess the color"
+Week 3. Advanced Javasript. Matching Game
+
+
+Course "Front-End Web UI Frameworks and Tools"
+Week 1. ConFusion. Page "About Us" (updating nav-bar, adding breadcrumbs, formatting content)
+Week 2. ConFusion. Main Page (adding navbar-form, reservation form, some buttons and images)
+Week 3. ConFusion. Main Page (adding modal, moving reservation form into the modal, adding radio-buttons into the reservation form)
+Week 4. ConFusion. Main Page (writing jquery with bootstrap methods for modals instead of data-attributes)
+
+
+Course "Front-End JavaScript Frameworks: AngularJS"
+Week 5 (1). ConFusion. Dishdetail page (displaying dish information, displaying dish comments, filtering comments (orderBy))
+Week 6 (2). ConFusion. Dishdetail.html + app.js (displaying comment form, verifying form, pushing new comments into comments array)
+Week 7 (3). ConFusion. Finishing the app (creating aboutus.html and home.html + their controllers)
+Week 8 (4). ConFusion. Updating the app (getting data for aboutus.html and home.html from the server, recording feedback from the feedback form on the server)
+
+
+Course "Multiplatform Mobile App Development with Web Technologies"
+Week 9 (1). ConFusion App. Designing About Us and Contact Us pages for App
+Week 10 (2). ConFusion App. Creating Popover for Dish Details pages (adding dishes to Favorites and pushing comments)
+Week 11 (3). ConFusion App. Using resolve object and local storage
